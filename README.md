@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-_TI9Q3UMbv)
-- Live Site URL: [Live site URL here](https://ardaekerforntendmentor-02.netlify.app/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-JUBySLb6qh)
+- Live Site URL: [Live site URL here](https://ardaekerforntendmentor-04.netlify.app/)
 
 ## Author
 
