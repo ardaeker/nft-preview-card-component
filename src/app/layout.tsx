@@ -33,7 +33,9 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL(
+    'https://nft-preview-card-component-dusky-gamma.vercel.app/',
+  ),
   openGraph: {
     title: 'Frontend Mentor - NFT preview card component',
     description:
@@ -46,7 +48,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://nft-preview-card-component-dusky-gamma.vercel.app',
   },
   icons: {
     icon: '/icon.png',
