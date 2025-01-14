@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
-- Live Site URL: [Open on Vercel ↗](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/nft-preview-card-component-_zrp_o4Bhh)
+- Live Site URL: [Open on Vercel ↗](https://nft-preview-card-component-dusky-gamma.vercel.app)
 
 ## Built with
 
