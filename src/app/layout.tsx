@@ -15,9 +15,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - NFT preview card component',
+  title: 'Arda Eker - NFT preview card component',
   description:
-    'This website is a solution for the NFT preview card component challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.',
+    'A responsive NFT preview card with semantic HTML and metadata optimization.',
   authors: {
     name: 'Arda Eker',
     url: 'https://github.com/ardaeker',
@@ -37,10 +37,10 @@ export const metadata: Metadata = {
     'https://nft-preview-card-component-dusky-gamma.vercel.app/',
   ),
   openGraph: {
-    title: 'Frontend Mentor - NFT preview card component',
+    title: 'Arda Eker - NFT preview card component',
     description:
-      'This website is a solution to the NFT preview card component challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
-    siteName: 'Frontend Mentor - NFT preview card component',
+      'A responsive NFT preview card with semantic HTML and metadata optimization.',
+    siteName: 'Arda Eker - NFT preview card component',
     images: [
       {
         url: 'open-graph-image.png',
@@ -49,9 +49,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://nft-preview-card-component-dusky-gamma.vercel.app',
-  },
-  icons: {
-    icon: '/icon.png',
   },
 };
 
